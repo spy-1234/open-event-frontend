@@ -1,0 +1,1014 @@
+{
+  "charset": "utf-8",
+  "headers": {
+    "project-id-version": "open-event-frontend",
+    "report-msgid-bugs-to": "open-event@googlegroups.com",
+    "pot-creation-date": "2019-01-31 16:31+0800",
+    "po-revision-date": "2020-10-22 20:30+0000",
+    "last-translator": "Areeb Jamal <jamal.areeb@gmail.com>",
+    "language-team": "Hindi <https://hosted.weblate.org/projects/open-event/frontend/hi/>",
+    "language": "hi",
+    "mime-version": "1.0",
+    "content-type": "text/plain; charset=UTF-8",
+    "content-transfer-encoding": "8bit",
+    "plural-forms": "nplurals=2; plural=n != 1;",
+    "x-generator": "Weblate 4.3.1",
+    "x-crowdin-project": "open-event-frontend",
+    "x-crowdin-language": "hi",
+    "x-crowdin-file": "/development/translations/en.po"
+  },
+  "translations": {
+    "": {
+      "Accepted": {
+        "msgid": "Accepted",
+        "msgstr": [
+          "स्वीकृत"
+        ]
+      },
+      "Account": {
+        "msgid": "Account",
+        "msgstr": [
+          "खाता"
+        ]
+      },
+      "Address": {
+        "msgid": "Address",
+        "msgstr": [
+          "पता"
+        ]
+      },
+      "Admin": {
+        "msgid": "Admin",
+        "msgstr": [
+          "प्रशासन"
+        ]
+      },
+      "All Dates": {
+        "msgid": "All Dates",
+        "msgstr": [
+          "सभी तारीखें"
+        ]
+      },
+      "An unexpected error has occurred.": {
+        "msgid": "An unexpected error has occurred.",
+        "msgstr": [
+          "कोई अनपेक्षित त्रुटि हुई है।"
+        ]
+      },
+      "Audio": {
+        "msgid": "Audio",
+        "msgstr": [
+          "ऑडियो"
+        ]
+      },
+      "Blog": {
+        "msgid": "Blog",
+        "msgstr": [
+          "ब्लॉग"
+        ]
+      },
+      "Browse Events": {
+        "msgid": "Browse Events",
+        "msgstr": [
+          "घटना चरना"
+        ]
+      },
+      "Calendar": {
+        "msgid": "Calendar",
+        "msgstr": [
+          "पंचांग"
+        ]
+      },
+      "Call for Speakers": {
+        "msgid": "Call for Speakers",
+        "msgstr": [
+          "वक्ताओं के लिए बुलावा"
+        ]
+      },
+      "Cancel": {
+        "msgid": "Cancel",
+        "msgstr": [
+          "रद्द करना"
+        ]
+      },
+      "Categories": {
+        "msgid": "Categories",
+        "msgstr": [
+          "श्रेणियाँ"
+        ]
+      },
+      "Clear Filters": {
+        "msgid": "Clear Filters",
+        "msgstr": [
+          "फिल्टर साफ करें"
+        ]
+      },
+      "Code of Conduct": {
+        "msgid": "Code of Conduct",
+        "msgstr": [
+          "आचार संहिता"
+        ]
+      },
+      "Connect With Us": {
+        "msgid": "Connect With Us",
+        "msgstr": [
+          "हमारे साथ जुड़ें"
+        ]
+      },
+      "Copy": {
+        "msgid": "Copy",
+        "msgstr": [
+          "प्रतिलिपि"
+        ]
+      },
+      "Copyright": {
+        "msgid": "Copyright",
+        "msgstr": [
+          "कॉपीराइट"
+        ]
+      },
+      "Could not fetch from the server": {
+        "msgid": "Could not fetch from the server",
+        "msgstr": [
+          "सर्वर से नहीं लाया जा सका"
+        ]
+      },
+      "Create Event": {
+        "msgid": "Create Event",
+        "msgstr": [
+          "कार्यक्रम बनाएँ"
+        ]
+      },
+      "Date": {
+        "msgid": "Date",
+        "msgstr": [
+          "तारीख"
+        ]
+      },
+      "Delete": {
+        "msgid": "Delete",
+        "msgstr": [
+          "मिटाना"
+        ]
+      },
+      "Document": {
+        "msgid": "Document",
+        "msgstr": [
+          "दस्तावेज़"
+        ]
+      },
+      "Download": {
+        "msgid": "Download",
+        "msgstr": [
+          "डाउनलोड"
+        ]
+      },
+      "Download Ready": {
+        "msgid": "Download Ready",
+        "msgstr": [
+          "डाउनलोड तैयार"
+        ]
+      },
+      "Draft": {
+        "msgid": "Draft",
+        "msgstr": [
+          "प्रारूप"
+        ]
+      },
+      "Email notifications updated successfully": {
+        "msgid": "Email notifications updated successfully",
+        "msgstr": [
+          "ईमेल सूचनाएं सफलतापूर्वक अपडेट की गईं"
+        ]
+      },
+      "Enter promotional code": {
+        "msgid": "Enter promotional code",
+        "msgstr": [
+          "प्रचार कोड दर्ज करें"
+        ]
+      },
+      "Event Management Software": {
+        "msgid": "Event Management Software",
+        "msgstr": [
+          "कार्यक्रम प्रबंध सॉफ्टवेयर"
+        ]
+      },
+      "Events": {
+        "msgid": "Events",
+        "msgstr": [
+          "आयोजन"
+        ]
+      },
+      "Export": {
+        "msgid": "Export",
+        "msgstr": [
+          "निर्यात"
+        ]
+      },
+      "Exported Event Downloaded successfully.": {
+        "msgid": "Exported Event Downloaded successfully.",
+        "msgstr": [
+          "निर्यात की गई घटना सफलतापूर्वक डाउनलोड की गई।"
+        ]
+      },
+      "Facebook": {
+        "msgid": "Facebook",
+        "msgstr": [
+          "फेसबुक"
+        ]
+      },
+      "Featured Events": {
+        "msgid": "Featured Events",
+        "msgstr": [
+          "विशेष कार्यक्रम"
+        ]
+      },
+      "Find Events": {
+        "msgid": "Find Events",
+        "msgstr": [
+          "कार्यक्रम खोजें"
+        ]
+      },
+      "Getting Here": {
+        "msgid": "Getting Here",
+        "msgstr": [
+          "यहाँ का रास्ता"
+        ]
+      },
+      "GitHub": {
+        "msgid": "GitHub",
+        "msgstr": [
+          "गिटहब"
+        ]
+      },
+      "Gitter": {
+        "msgid": "Gitter",
+        "msgstr": [
+          "गिटर"
+        ]
+      },
+      "Google Groups": {
+        "msgid": "Google Groups",
+        "msgstr": [
+          "गूगल समूह"
+        ]
+      },
+      "here": {
+        "msgid": "here",
+        "msgstr": [
+          "यहाँ"
+        ]
+      },
+      "How it Works": {
+        "msgid": "How it Works",
+        "msgstr": [
+          "यह कैसे काम करता है"
+        ]
+      },
+      "Image": {
+        "msgid": "Image",
+        "msgstr": [
+          "छवि"
+        ]
+      },
+      "Import": {
+        "msgid": "Import",
+        "msgstr": [
+          "आयात"
+        ]
+      },
+      "Info": {
+        "msgid": "Info",
+        "msgstr": [
+          "जानकारी"
+        ]
+      },
+      "Invited": {
+        "msgid": "Invited",
+        "msgstr": [
+          "आमंत्रित"
+        ]
+      },
+      "Level": {
+        "msgid": "Level",
+        "msgstr": [
+          "स्तर"
+        ]
+      },
+      "Live": {
+        "msgid": "Live",
+        "msgstr": [
+          "जीना"
+        ]
+      },
+      "Login": {
+        "msgid": "Login",
+        "msgstr": [
+          "लॉगिन"
+        ]
+      },
+      "Logo": {
+        "msgid": "Logo",
+        "msgstr": [
+          "प्रतीक चिन्ह"
+        ]
+      },
+      "Logout": {
+        "msgid": "Logout",
+        "msgstr": [
+          "लोग आउट"
+        ]
+      },
+      "Manage Events": {
+        "msgid": "Manage Events",
+        "msgstr": [
+          "घटनाओं का प्रबंधन"
+        ]
+      },
+      "My Sessions": {
+        "msgid": "My Sessions",
+        "msgstr": [
+          "मेरे सत्र"
+        ]
+      },
+      "My Tickets": {
+        "msgid": "My Tickets",
+        "msgstr": [
+          "मेरा टिकट"
+        ]
+      },
+      "Name": {
+        "msgid": "Name",
+        "msgstr": [
+          "नाम"
+        ]
+      },
+      "Next Week": {
+        "msgid": "Next Week",
+        "msgstr": [
+          "अगले सप्ताह"
+        ]
+      },
+      "Notifications": {
+        "msgid": "Notifications",
+        "msgstr": [
+          "सूचनाएं"
+        ]
+      },
+      "Online Event": {
+        "msgid": "Online Event",
+        "msgstr": [
+          "ऑनलाइन कार्यक्रम"
+        ]
+      },
+      "Online Registration": {
+        "msgid": "Online Registration",
+        "msgstr": [
+          "ऑनलाइन पंजीकरण"
+        ]
+      },
+      "Oops something went wrong. Please try again": {
+        "msgid": "Oops something went wrong. Please try again",
+        "msgstr": [
+          "ओह! कुछ गलत हो गया है। कृपया पुन: प्रयास करें"
+        ]
+      },
+      "Options": {
+        "msgid": "Options",
+        "msgstr": [
+          "विकल्प"
+        ]
+      },
+      "Order Now": {
+        "msgid": "Order Now",
+        "msgstr": [
+          "खरीदें"
+        ]
+      },
+      "Organizer": {
+        "msgid": "Organizer",
+        "msgstr": [
+          "आयोजक"
+        ]
+      },
+      "Passwords do not match": {
+        "msgid": "Passwords do not match",
+        "msgstr": [
+          "पासवर्ड मेल नहीं खाते"
+        ]
+      },
+      "Past": {
+        "msgid": "Past",
+        "msgstr": [
+          "अतीत"
+        ]
+      },
+      "Path should not contain leading slash.": {
+        "msgid": "Path should not contain leading slash.",
+        "msgstr": [
+          "पथ में अग्रणी स्लैश नहीं होना चाहिए।"
+        ]
+      },
+      "Path should not contain whitespaces.": {
+        "msgid": "Path should not contain whitespaces.",
+        "msgstr": [
+          "पथ में सफेद स्थान नहीं होना चाहिए।"
+        ]
+      },
+      "Pending": {
+        "msgid": "Pending",
+        "msgstr": [
+          "अपूर्ण"
+        ]
+      },
+      "Plan Events": {
+        "msgid": "Plan Events",
+        "msgstr": [
+          "कार्यक्रम की योजना करें"
+        ]
+      },
+      "Please enter a language": {
+        "msgid": "Please enter a language",
+        "msgstr": [
+          "कृपया एक भाषा दर्ज करें"
+        ]
+      },
+      "Please enter a name": {
+        "msgid": "Please enter a name",
+        "msgstr": [
+          "कृपया एक नाम दर्ज करें"
+        ]
+      },
+      "Please enter a new password": {
+        "msgid": "Please enter a new password",
+        "msgstr": [
+          "कृपया एक नया पासवर्ड दर्ज करें"
+        ]
+      },
+      "Please enter a phone number.": {
+        "msgid": "Please enter a phone number.",
+        "msgstr": [
+          "कृपया एक फ़ोन नंबर दर्ज करें।"
+        ]
+      },
+      "Please enter a position": {
+        "msgid": "Please enter a position",
+        "msgstr": [
+          "कृपया एक स्थिति दर्ज करें"
+        ]
+      },
+      "Please enter a tag line": {
+        "msgid": "Please enter a tag line",
+        "msgstr": [
+          "कृपया एक टैग लाइन दर्ज करें"
+        ]
+      },
+      "Please enter a title": {
+        "msgid": "Please enter a title",
+        "msgstr": [
+          "कृपया एक शीर्षक दर्ज करें"
+        ]
+      },
+      "Please enter a valid email address": {
+        "msgid": "Please enter a valid email address",
+        "msgstr": [
+          "कृपया एक वैध ई -मेल एड्रेस डालें"
+        ]
+      },
+      "Please enter a valid mobile number.": {
+        "msgid": "Please enter a valid mobile number.",
+        "msgstr": [
+          "कृपया एक मान्य मोबाइल नंबर दर्ज करें।"
+        ]
+      },
+      "Please enter a valid phone number.": {
+        "msgid": "Please enter a valid phone number.",
+        "msgstr": [
+          "कृपया एक मान्य फोन नंबर दर्ज करें।"
+        ]
+      },
+      "Please enter a valid url": {
+        "msgid": "Please enter a valid url",
+        "msgstr": [
+          "कृपया एक मान्य यूआरएल दर्ज कीजिए"
+        ]
+      },
+      "Please enter a valid URL for Android app": {
+        "msgid": "Please enter a valid URL for Android app",
+        "msgstr": [
+          "कृपया Android एप्लिकेशन के लिए एक मान्य URL दर्ज करें"
+        ]
+      },
+      "Please enter a valid URL for web app": {
+        "msgid": "Please enter a valid URL for web app",
+        "msgstr": [
+          "कृपया वेब एप्लिकेशन के लिए एक मान्य URL दर्ज करें"
+        ]
+      },
+      "Please enter height": {
+        "msgid": "Please enter height",
+        "msgstr": [
+          "कृपया ऊंचाई दर्ज करें"
+        ]
+      },
+      "Please enter quality": {
+        "msgid": "Please enter quality",
+        "msgstr": [
+          "कृपया गुणवत्ता दर्ज करें"
+        ]
+      },
+      "Please enter size": {
+        "msgid": "Please enter size",
+        "msgstr": [
+          "कृपया आकार दर्ज करें"
+        ]
+      },
+      "Please enter the Address": {
+        "msgid": "Please enter the Address",
+        "msgstr": [
+          "कृपया पता दर्ज करें"
+        ]
+      },
+      "Please enter the App name": {
+        "msgid": "Please enter the App name",
+        "msgstr": [
+          "कृपया ऐप का नाम डालें"
+        ]
+      },
+      "Please enter the city": {
+        "msgid": "Please enter the city",
+        "msgstr": [
+          "कृपया शहर दर्ज करें"
+        ]
+      },
+      "Please enter the client ID": {
+        "msgid": "Please enter the client ID",
+        "msgstr": [
+          "कृपया क्लाइंट आईडी दर्ज करें"
+        ]
+      },
+      "Please enter the company": {
+        "msgid": "Please enter the company",
+        "msgstr": [
+          "कृपया कंपनी दर्ज करें"
+        ]
+      },
+      "Please enter the current password": {
+        "msgid": "Please enter the current password",
+        "msgstr": [
+          "कृपया वर्तमान पासवर्ड दर्ज करें"
+        ]
+      },
+      "Please enter the email": {
+        "msgid": "Please enter the email",
+        "msgstr": [
+          "कृपया ईमेल दर्ज करें"
+        ]
+      },
+      "Please enter the live client token": {
+        "msgid": "Please enter the live client token",
+        "msgstr": [
+          "कृपया लाइव क्लाइंट टोकन दर्ज करें"
+        ]
+      },
+      "Please enter the live merchant ID": {
+        "msgid": "Please enter the live merchant ID",
+        "msgstr": [
+          "कृपया लाइव मर्चेंट आईडी दर्ज करें"
+        ]
+      },
+      "Please enter the live secret token": {
+        "msgid": "Please enter the live secret token",
+        "msgstr": [
+          "कृपया लाइव सीक्रेट टोकन दर्ज करें"
+        ]
+      },
+      "Please enter the path": {
+        "msgid": "Please enter the path",
+        "msgstr": [
+          "कृपया पथ दर्ज करें"
+        ]
+      },
+      "Please enter the public live key": {
+        "msgid": "Please enter the public live key",
+        "msgstr": [
+          "कृपया सार्वजनिक लाइव कुंजी दर्ज करें"
+        ]
+      },
+      "Please enter the public test key": {
+        "msgid": "Please enter the public test key",
+        "msgstr": [
+          "कृपया सार्वजनिक परीक्षण कुंजी दर्ज करें"
+        ]
+      },
+      "Please enter the publishable key": {
+        "msgid": "Please enter the publishable key",
+        "msgstr": [
+          "कृपया प्रकाशन योग्य कुंजी दर्ज करें"
+        ]
+      },
+      "Please enter the publishable test key": {
+        "msgid": "Please enter the publishable test key",
+        "msgstr": [
+          "कृपया प्रकाशन योग्य परीक्षण कुंजी दर्ज करें"
+        ]
+      },
+      "Please enter the sandbox client id": {
+        "msgid": "Please enter the sandbox client id",
+        "msgstr": [
+          "कृपया सैंडबॉक्स क्लाइंट आईडी दर्ज करें"
+        ]
+      },
+      "Please enter the sandbox secret token": {
+        "msgid": "Please enter the sandbox secret token",
+        "msgstr": [
+          "कृपया सैंडबॉक्स गुप्त टोकन दर्ज करें"
+        ]
+      },
+      "Please enter the secret key": {
+        "msgid": "Please enter the secret key",
+        "msgstr": [
+          "कृपया गुप्त कुंजी दर्ज करें"
+        ]
+      },
+      "Please enter the secret live key": {
+        "msgid": "Please enter the secret live key",
+        "msgstr": [
+          "कृपया गुप्त लाइव कुंजी दर्ज करें"
+        ]
+      },
+      "Please enter the secret test key": {
+        "msgid": "Please enter the secret test key",
+        "msgstr": [
+          "कृपया गुप्त परीक्षण कुंजी दर्ज करें"
+        ]
+      },
+      "Please enter the test merchant ID": {
+        "msgid": "Please enter the test merchant ID",
+        "msgstr": [
+          "कृपया टेस्ट मर्चेंट आईडी डालें"
+        ]
+      },
+      "Please enter the zip code": {
+        "msgid": "Please enter the zip code",
+        "msgstr": [
+          "कृपया ज़िप कोड दर्ज करें"
+        ]
+      },
+      "Please enter width": {
+        "msgid": "Please enter width",
+        "msgstr": [
+          "कृपया चौड़ाई दर्ज करें"
+        ]
+      },
+      "Please enter your email ID": {
+        "msgid": "Please enter your email ID",
+        "msgstr": [
+          "कृपया अपना ईमेल आईडी दर्ज करें"
+        ]
+      },
+      "Please select a language": {
+        "msgid": "Please select a language",
+        "msgstr": [
+          "कृपया एक भाषा चुनें"
+        ]
+      },
+      "Please select a place": {
+        "msgid": "Please select a place",
+        "msgstr": [
+          "कृपया एक स्थान का चयन करें"
+        ]
+      },
+      "Please select the country": {
+        "msgid": "Please select the country",
+        "msgstr": [
+          "कृपया देश का चयन करें"
+        ]
+      },
+      "Please upload a file": {
+        "msgid": "Please upload a file",
+        "msgstr": [
+          "कृपया एक फ़ाइल अपलोड करें"
+        ]
+      },
+      "Please upload a file in suggested format": {
+        "msgid": "Please upload a file in suggested format",
+        "msgstr": [
+          "कृपया सुझाए गए प्रारूप में एक फ़ाइल अपलोड करें"
+        ]
+      },
+      "Preview": {
+        "msgid": "Preview",
+        "msgstr": [
+          "पूर्वावलोकन"
+        ]
+      },
+      "Price": {
+        "msgid": "Price",
+        "msgstr": [
+          "मूल्य"
+        ]
+      },
+      "Pricing": {
+        "msgid": "Pricing",
+        "msgstr": [
+          "मूल्य"
+        ]
+      },
+      "Privacy": {
+        "msgid": "Privacy",
+        "msgstr": [
+          "गोपनीयता"
+        ]
+      },
+      "Public": {
+        "msgid": "Public",
+        "msgstr": [
+          "सार्वजनिक"
+        ]
+      },
+      "Publish": {
+        "msgid": "Publish",
+        "msgstr": [
+          "प्रकाशित"
+        ]
+      },
+      "Quantity": {
+        "msgid": "Quantity",
+        "msgstr": [
+          "मात्रा"
+        ]
+      },
+      "Refund Policy": {
+        "msgid": "Refund Policy",
+        "msgstr": [
+          "धन वापसी नीति"
+        ]
+      },
+      "Rejected": {
+        "msgid": "Rejected",
+        "msgstr": [
+          "अस्वीकृत"
+        ]
+      },
+      "Role": {
+        "msgid": "Role",
+        "msgstr": [
+          "भूमिका"
+        ]
+      },
+      "Role Invite deleted successfully": {
+        "msgid": "Role Invite deleted successfully",
+        "msgstr": [
+          "भूमिका आमंत्रण सफलतापूर्वक हटा दिया गया"
+        ]
+      },
+      "Role Invite sent successfully": {
+        "msgid": "Role Invite sent successfully",
+        "msgstr": [
+          "भूमिका आमंत्रण सफलतापूर्वक भेजा गया"
+        ]
+      },
+      "Role Invite updated successfully": {
+        "msgid": "Role Invite updated successfully",
+        "msgstr": [
+          "भूमिका आमंत्रण सफलतापूर्वक अपडेट किया गया"
+        ]
+      },
+      "Sales": {
+        "msgid": "Sales",
+        "msgstr": [
+          "बिक्री"
+        ]
+      },
+      "Schedule": {
+        "msgid": "Schedule",
+        "msgstr": [
+          "अनुसूची"
+        ]
+      },
+      "Search": {
+        "msgid": "Search",
+        "msgstr": [
+          "खोज"
+        ]
+      },
+      "Search for events": {
+        "msgid": "Search for events",
+        "msgstr": [
+          "घटनाओं की खोज करें"
+        ]
+      },
+      "Search location": {
+        "msgid": "Search location",
+        "msgstr": [
+          "स्थान खोजें"
+        ]
+      },
+      "Sell Event Tickets": {
+        "msgid": "Sell Event Tickets",
+        "msgstr": [
+          "कार्यक्रम टिकट बेचें"
+        ]
+      },
+      "Sessions": {
+        "msgid": "Sessions",
+        "msgstr": [
+          "सत्र"
+        ]
+      },
+      "Settings": {
+        "msgid": "Settings",
+        "msgstr": [
+          "समायोजन"
+        ]
+      },
+      "Share this event": {
+        "msgid": "Share this event",
+        "msgstr": [
+          "इस घटना को साझा करें"
+        ]
+      },
+      "Speakers": {
+        "msgid": "Speakers",
+        "msgstr": [
+          "वक्ता"
+        ]
+      },
+      "Sponsors": {
+        "msgid": "Sponsors",
+        "msgstr": [
+          "प्रायोजक"
+        ]
+      },
+      "Start": {
+        "msgid": "Start",
+        "msgstr": [
+          "प्रारंभ"
+        ]
+      },
+      "State": {
+        "msgid": "State",
+        "msgstr": [
+          "राज्य"
+        ]
+      },
+      "Status": {
+        "msgid": "Status",
+        "msgstr": [
+          "स्थिति"
+        ]
+      },
+      "Subtotal": {
+        "msgid": "Subtotal",
+        "msgstr": [
+          "उप-योग"
+        ]
+      },
+      "Success": {
+        "msgid": "Success",
+        "msgstr": [
+          "सफलता"
+        ]
+      },
+      "Task failed.": {
+        "msgid": "Task failed.",
+        "msgstr": [
+          "टास्क फेल हो गया।"
+        ]
+      },
+      "Task is going on.": {
+        "msgid": "Task is going on.",
+        "msgstr": [
+          "टास्क चल रहा है।"
+        ]
+      },
+      "Telegram": {
+        "msgid": "Telegram",
+        "msgstr": [
+          "टेलीग्राम"
+        ]
+      },
+      "The simplest way to create events.": {
+        "msgid": "The simplest way to create events.",
+        "msgstr": [
+          "घटनाओ  का आयोजन करने के लिए सबसे आसान तरीका है"
+        ]
+      },
+      "This Month": {
+        "msgid": "This Month",
+        "msgstr": [
+          "इस महीने"
+        ]
+      },
+      "This Week": {
+        "msgid": "This Week",
+        "msgstr": [
+          "इस सप्ताह"
+        ]
+      },
+      "This Weekend": {
+        "msgid": "This Weekend",
+        "msgstr": [
+          "इस सप्ताहांत"
+        ]
+      },
+      "Tickets": {
+        "msgid": "Tickets",
+        "msgstr": [
+          "टिकट"
+        ]
+      },
+      "Today": {
+        "msgid": "Today",
+        "msgstr": [
+          "आज"
+        ]
+      },
+      "Tomorrow": {
+        "msgid": "Tomorrow",
+        "msgstr": [
+          "आने वाला कल"
+        ]
+      },
+      "Total": {
+        "msgid": "Total",
+        "msgstr": [
+          "कुल"
+        ]
+      },
+      "Twitter": {
+        "msgid": "Twitter",
+        "msgstr": [
+          "ट्विटर"
+        ]
+      },
+      "Type": {
+        "msgid": "Type",
+        "msgstr": [
+          "प्रकार"
+        ]
+      },
+      "Unpublish": {
+        "msgid": "Unpublish",
+        "msgstr": [
+          "अप्रकाशित"
+        ]
+      },
+      "Upcoming Events": {
+        "msgid": "Upcoming Events",
+        "msgstr": [
+          "आने वाले कार्यक्रम"
+        ]
+      },
+      "View": {
+        "msgid": "View",
+        "msgstr": [
+          "देखें"
+        ]
+      },
+      "You need to connect to your Stripe account, if you choose Stripe as a payment gateway.": {
+        "msgid": "You need to connect to your Stripe account, if you choose Stripe as a payment gateway.",
+        "msgstr": [
+          "यदि आप भुगतान गेटवे के रूप में स्ट्राइप चुनते हैं, तो आपको अपने स्ट्राइप खाते से कनेक्ट करना होगा।"
+        ]
+      },
+      "Your account has been deleted successfully.": {
+        "msgid": "Your account has been deleted successfully.",
+        "msgstr": [
+          "आपका खाता सफलतापूर्वक हटा दिया गया है।"
+        ]
+      },
+      "Your event has been published successfully.": {
+        "msgid": "Your event has been published successfully.",
+        "msgstr": [
+          "आपका ईवेंट सफलतापूर्वक प्रकाशित हो गया है।"
+        ]
+      },
+      "Your event has been unpublished.": {
+        "msgid": "Your event has been unpublished.",
+        "msgstr": [
+          "आपकी घटना अप्रकाशित हो गई है।"
+        ]
+      },
+      "Your event must have tickets before it can be published.": {
+        "msgid": "Your event must have tickets before it can be published.",
+        "msgstr": [
+          "प्रकाशित होने से पहले आपके ईवेंट में टिकट होना चाहिए।"
+        ]
+      },
+      "Your password must have at least {ruleValue} characters": {
+        "msgid": "Your password must have at least {ruleValue} characters",
+        "msgstr": [
+          "आपके पासवर्ड में कम से कम {ruleValue} अक्षर होने चाहिए"
+        ]
+      },
+      "YouTube": {
+        "msgid": "YouTube",
+        "msgstr": [
+          "यूट्यूब"
+        ]
+      }
+    }
+  }
+}
